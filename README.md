@@ -1,2 +1,2 @@
-# Algorithms using C# 2020
+# Algorithms using C#
 Learning Algorithms using C#
