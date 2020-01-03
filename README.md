@@ -1,2 +1,2 @@
-# algorithms_using_csharp_2020
+# Algorithms using C# 2020
 Learning Algorithms using C#
